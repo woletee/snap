@@ -1,0 +1,8 @@
+ckpt/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.log
+generated/
+.env
