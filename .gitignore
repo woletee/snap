@@ -1,8 +1,4 @@
-ckpt/*.pth
-ckpt/*.ckpt
-ckpt/*.safetensors
-ckpt/*.pt
-ckpt/models/
+ckpt/
 __pycache__/
 *.pyc
 *.pyo
@@ -10,3 +6,4 @@ __pycache__/
 *.log
 generated/
 .env
+.vscode/
