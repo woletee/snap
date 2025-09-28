@@ -1,4 +1,8 @@
-ckpt/
+ckpt/*.pth
+ckpt/*.ckpt
+ckpt/*.safetensors
+ckpt/*.pt
+ckpt/models/
 __pycache__/
 *.pyc
 *.pyo
